@@ -18,7 +18,7 @@ Evidence of academic dishonesty was found in the data that was originally provid
 	- The Average Reading Score did not change.
 	- The percentage of students that had a passing math score (% Passing Math) dropped two tenths of a percent to 74.8%.
 	- The percentage of students that had a passing reading score (% Passing Reading) dropped one tenth of a percent to 85.7%.
-	- The overall passing percentage (% Overall Passing) dropped three tenths of a percent to 64.9%
+	- The overall passing percentage (% Overall Passing) dropped three tenths of a percent to 64.9%.
 		- Original District Summary
 		![Original District Summary](https://github.com/jediracer/School_District_Analysis/blob/main/resources/Original%20District%20Summary.png)
 		- Updated District Summary
@@ -37,14 +37,14 @@ Evidence of academic dishonesty was found in the data that was originally provid
 		![Updated Top School Summary](https://github.com/jediracer/School_District_Analysis/blob/main/resources/Updated%20Top%20School%20Summary.png)	
 - Affects on replacing the ninth grade scores for Thomas High School
 	- Math & Reading Scores by Grade
-		1. The average of all grades for Thomas High School
-		2. The average of the 9th grade for all schools in the district
+		1. The average of all grades for Thomas High School.
+		2. The average of the 9th grade for all schools in the district.
 	- Scores by School Spending
-		- No affect
+		- There was no affect on the School Spending metric.
 	- Scores by School Size
-		- No affect
+		- There was no affect on the School Size metric.
 	- Scores by School Type	
-		- No affect
+		- There was no affect on the School Type metric.
 ## Summary
 - The affects on the District Summary were very small.  removing the 9th grade scores from the Thomas High School did not have a substantial impact over the district as a whole.
 - The metrics for Thomas High School were the one affected on the School Summary as data was not removed from other schools.
