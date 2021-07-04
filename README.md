@@ -1,7 +1,7 @@
 # School_District_Analysis
 
 ## Project Overview
-Evidence of academic dishonesty was found in the data that was originally provided. 
+Evidence of academic dishonesty was found in the 9th grade data for Thomas High School that was originally provided. 
 1. The compromised data needs to be replaced with NaN values.
 2. Re-run the original analysis without 9th grade scores from Thomas High School.
 3. Alter the analysis for Thomas High School to exclude 9th grade scores.
