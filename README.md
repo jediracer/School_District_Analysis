@@ -2,12 +2,14 @@
 
 ## Project Overview
 Evidence of academic dishonesty was found in the data that was originally provided. 
-1. The compromised data needs to be removed.
-2. Re-run the original analysis without 9th grade scores from Thomas High School
-3. Alter the analysis for Thomas High School to exclude 9th grade scores
+1. The compromised data needs to be replaced with NaN values.
+2. Re-run the original analysis without 9th grade scores from Thomas High School.
+3. Alter the analysis for Thomas High School to exclude 9th grade scores.
 
 ## Resources
-- Data Source: election_results.csv
+- Data Sources: 
+	- schools_complete.csv
+	- students_complete.csv
 - Software: Python 3.8.8, Visual Studio Code 1.57.1
 
 ## Results
@@ -15,10 +17,12 @@ Evidence of academic dishonesty was found in the data that was originally provid
 	- The Average Math score dropped one tenth of a percent to 78.9%.
 	- The Average Reading Score did not change.
 	- The percentage of students that had a passing math score (% Passing Math) dropped two tenths of a percent to 74.8%.
-	- The percentage of students that had a passing reading score (%Passing Reading) dropped one tenth of a percent to 85.7%.
+	- The percentage of students that had a passing reading score (% Passing Reading) dropped one tenth of a percent to 85.7%.
 	- The overall passing percentage (% Overall Passing) dropped three tenths of a percent to 64.9%
-		- ![Original District Summary](https://github.com/jediracer/School_District_Analysis/blob/main/resources/Original%20District%20Summary.png)
-		- ![Updated District Summary](https://github.com/jediracer/School_District_Analysis/blob/main/resources/Updated%20District%20Summary.png)
+		- Original District Summary
+		![Original District Summary](https://github.com/jediracer/School_District_Analysis/blob/main/resources/Original%20District%20Summary.png)
+		- Updated District Summary
+		![Updated District Summary](https://github.com/jediracer/School_District_Analysis/blob/main/resources/Updated%20District%20Summary.png)
 - Affects on the School Summary
 	- Only the metrics for Thomas High School were affected in the School Summary
 		- ![Original School Summary](https://github.com/jediracer/School_District_Analysis/blob/main/resources/Original%20School%20Summary.png)
