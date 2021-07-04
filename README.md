@@ -46,10 +46,10 @@ Evidence of academic dishonesty was found in the data that was originally provid
 	- Scores by School Type	
 		- There was no affect on the School Type metric.
 ## Summary
-- The affects on the District Summary were very small.  removing the 9th grade scores from the Thomas High School did not have a substantial impact over the district as a whole.
-- The metrics for Thomas High School were the one affected on the School Summary as data was not removed from other schools.
-- The performance rating of Thomas High school was minimally impacted even though the 9th grade scores were removed.
-- The affects on the metrics for Thomas High School were also minimal even though the 9th grade scores were removed.
+- The affects on the District Summary were very small.  Removing the 9th grade scores from the Thomas High School data did not have a substantial impact over the district as a whole.
+- Only the metrics for Thomas High School were affected on the School Summary as data was not replaced for other schools.
+- The performance rating of Thomas High school was minimally impacted even though the 9th grade scores were replaced.
+- The affects on the metrics for Thomas High School were also minimal even though the 9th grade scores were replaced.
 
 		
 
