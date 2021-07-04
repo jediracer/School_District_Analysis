@@ -25,12 +25,16 @@ Evidence of academic dishonesty was found in the data that was originally provid
 		![Updated District Summary](https://github.com/jediracer/School_District_Analysis/blob/main/resources/Updated%20District%20Summary.png)
 - Affects on the School Summary
 	- Only the metrics for Thomas High School were affected in the School Summary
-		- ![Original School Summary](https://github.com/jediracer/School_District_Analysis/blob/main/resources/Original%20School%20Summary.png)
-		- ![Updated School Summary](https://github.com/jediracer/School_District_Analysis/blob/main/resources/Updated%20School%20Summary.png)
+		- Original School Summary
+		![Original School Summary](https://github.com/jediracer/School_District_Analysis/blob/main/resources/Original%20School%20Summary.png)
+		- Updated School Summary
+		![Updated School Summary](https://github.com/jediracer/School_District_Analysis/blob/main/resources/Updated%20School%20Summary.png)
 - Thomas High School’s Performance Relative to the Other Schools
 	- Thomas High School remained second in the top schools list based on % Overall Passing.
-		- ![Original Top School Summary](https://github.com/jediracer/School_District_Analysis/blob/main/resources/Original%20Top%20School%20Summary.png)
-		- ![Updated Top School Summary](https://github.com/jediracer/School_District_Analysis/blob/main/resources/Updated%20Top%20School%20Summary.png)	
+		- Original Top School Summary
+		![Original Top School Summary](https://github.com/jediracer/School_District_Analysis/blob/main/resources/Original%20Top%20School%20Summary.png)
+		- Updated Top School Summary
+		![Updated Top School Summary](https://github.com/jediracer/School_District_Analysis/blob/main/resources/Updated%20Top%20School%20Summary.png)	
 - Affects on replacing the ninth grade scores for Thomas High School
 	- Math & Reading Scores by Grade
 		1. The average of all grades for Thomas High School
